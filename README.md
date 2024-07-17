@@ -12,7 +12,7 @@ A simple project that replaces the default mouse cursor with a custom cursor tha
 
 ## Demo
 
-Check out a live demo of the Custom Cursor project [here](#). *(Replace with actual link if available)*
+Check out a live demo of the Custom Cursor project [here](https://prince8737.github.io/Custom-Cursor/). 
 
 ## Features
 
